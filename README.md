@@ -5,5 +5,5 @@ A pixel polish clone of the Google homepage to practise layout, spacing and acce
 ## Tech
 - HTML, CSS, a sprinkle of JS
 
-##
-Recap CSS syntax, inline vs block, Margins, Padding, Borders, Divs, Classes and Flexbox
+## What I Learned
+- Recap of CSS syntax, inline vs block, Margins, Padding, Borders, Divs, Classes and Flexbox
